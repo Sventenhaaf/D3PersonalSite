@@ -1,0 +1,32 @@
+body {
+    font-family: arial;
+    font-size: 12px;
+    max-width: 800px;
+}
+canvas {
+    border: 1px dotted black;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.right {
+    float: right;
+}
+
+
+h1 {
+    font-family: Helvetica, Arial;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+body, p{
+    font-family: Helvetica, Arial;
+}
+
+
+#result {
+    font-size: 1.2em;
+}
+#feedback {
+    font-size: 1.5em;
+}
