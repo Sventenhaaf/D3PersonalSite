@@ -1,0 +1,19 @@
+/*body {
+  background-color: cornflowerblue;
+}*/
+
+.enter {
+  fill: blue;
+}
+
+.update {
+  fill: #333;
+}
+
+.exit {
+  fill: cornflowerblue;
+}
+
+.block:hover {
+  fill: cornflowerblue !important;
+}
