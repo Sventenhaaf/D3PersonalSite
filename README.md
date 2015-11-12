@@ -1,6 +1,7 @@
-# D3PersonalSite
-Personal Website using D3 for graphics
+# sndbxx
+A web toolkit for structural engineers
 
-* Starting to play around with D3
-* Just a first try-out
-* Want to make this my personal / portfolio website
+* Make back-of-the-envelope-calculations on the web
+* Adjust the tools to your own specifications
+* All front-end interface, immediate results
+* Log in to save or share your work

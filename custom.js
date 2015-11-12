@@ -1,3 +1,36 @@
+var beam1 = {
+  "beam1": {
+    "x": 0,
+    "y": 300,
+    "length": 1,
+    "rotation": 0,
+    "boundary conditions": {
+      "clamp": 0
+    }
+  }
+}
+
+var force1 = {
+  "force1": {
+    "touches": "beam1",
+    "type": "point load",
+    "size": 1,
+    "location": {
+      "x": 1,
+      "y": 300,
+      "direction": 270
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
 var svg = d3.select("svg")
 var colors = ["#FE6610", "#346164", "#111111", "#346164", "#00A8AF", "#346164", "#465D6D", "#346164", "#2C88AF", "#346164"]
 var indices = d3.range(0, colors.length);
